@@ -5,11 +5,13 @@ El Aprendizaje Supervisado se define como un proceso de entrenamiento de algorit
 
 
 Ejemplos de Aprendizaje Supervisado:
+
 Clasificación: Identificar a qué categoría pertenece una nueva observación, basado en un conjunto de categorías predefinidas. Ejemplo: Clasificación de correos electrónicos como "spam" o "no spam".
 Regresión: Predecir un valor continuo para una nueva observación. Ejemplo: Predecir el precio de una casa basado en características como el tamaño, la ubicación, etc.
 
 
 Pasos en el Aprendizaje Supervisado:
+
 Recopilación de Datos: Obtener un conjunto de datos etiquetados relevantes para el problema.
 Preprocesamiento de Datos: Limpiar y preparar los datos para el entrenamiento, incluyendo la normalización, tratamiento de valores faltantes, etc.
 División del Conjunto de Datos: Dividir los datos en conjuntos de entrenamiento y prueba (a veces también de validación).
