@@ -20,12 +20,16 @@ El aprendizaje supervisado es una técnica de machine learning en la cual un mod
 ### 4.Algoritmo de Optimización:
 
 Un método para ajustar los parámetros del modelo con el fin de minimizar la función de pérdida. Ejemplos incluyen el descenso del gradiente y sus variantes.
-Tipos de Problemas de Aprendizaje Supervisado
-Clasificación:
 
-Asignar una etiqueta a una entrada. Por ejemplo, clasificar correos electrónicos como "spam" o "no spam", o clasificar imágenes de animales como "perro", "gato", etc.
-Algoritmos comunes: Regresión logística, máquinas de vectores de soporte (SVM), árboles de decisión, redes neuronales.
-Regresión:
+## Tipos de Problemas de Aprendizaje Supervisado
+### 1.Clasificación:
 
-Predecir un valor continuo. Por ejemplo, predecir el precio de una casa basado en sus características (tamaño, ubicación, etc.).
-Algoritmos comunes: Regresión lineal, regresión polinómica, árboles de regresión, redes neuronales.
+* Asignar una etiqueta a una entrada. Por ejemplo, clasificar correos electrónicos como "spam" o "no spam", o clasificar imágenes de animales como "perro", "gato", etc.
+
+* Algoritmos comunes: Regresión logística, máquinas de vectores de soporte (SVM), árboles de decisión, redes neuronales.
+
+### 2.Regresión:
+
+* Predecir un valor continuo. Por ejemplo, predecir el precio de una casa basado en sus características (tamaño, ubicación, etc.).
+
+* Algoritmos comunes: Regresión lineal, regresión polinómica, árboles de regresión, redes neuronales.
