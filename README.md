@@ -86,3 +86,7 @@ Un método para ajustar los parámetros del modelo con el fin de minimizar la fu
 ### 7.Implementación:
 
 * Desplegar el modelo entrenado para hacer predicciones sobre nuevos datos.
+
+----
+## Conclusión
+El aprendizaje supervisado es una técnica poderosa y ampliamente utilizada en el análisis de datos y el machine learning. Su capacidad para aprender de datos etiquetados y hacer predicciones precisas lo convierte en una herramienta esencial para una variedad de aplicaciones en diferentes industrias. Al dominar el aprendizaje supervisado, los analistas de datos y científicos de datos pueden crear modelos predictivos efectivos que ayudan a resolver problemas complejos y a tomar decisiones informadas.
