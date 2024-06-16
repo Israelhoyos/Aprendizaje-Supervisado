@@ -58,24 +58,31 @@ Un método para ajustar los parámetros del modelo con el fin de minimizar la fu
 
 
 ##  Proceso de Aprendizaje Supervisado
-Recolección de Datos:
 
-Obtener un conjunto de datos etiquetados relevante para el problema.
-Preprocesamiento de Datos:
+### 1.Recolección de Datos:
 
-Limpieza de datos, normalización, manejo de valores faltantes, y transformación de características.
-División del Conjunto de Datos:
+* Obtener un conjunto de datos etiquetados relevante para el problema.
 
-Separar los datos en un conjunto de entrenamiento y un conjunto de prueba (y a veces un conjunto de validación).
-Entrenamiento del Modelo:
+### 2.Preprocesamiento de Datos:
 
-Utilizar el conjunto de entrenamiento para ajustar los parámetros del modelo.
-Evaluación del Modelo:
+* Limpieza de datos, normalización, manejo de valores faltantes, y transformación de características.
 
-Utilizar el conjunto de prueba para evaluar el rendimiento del modelo. Métricas comunes incluyen precisión, recall, F1-score para clasificación, y error cuadrático medio para regresión.
-Ajuste de Hiperparámetros:
+### 3.División del Conjunto de Datos:
 
-Optimizar los parámetros del modelo utilizando técnicas como la validación cruzada.
-Implementación:
+* Separar los datos en un conjunto de entrenamiento y un conjunto de prueba (y a veces un conjunto de validación).
 
-Desplegar el modelo entrenado para hacer predicciones sobre nuevos datos.
+### 4.Entrenamiento del Modelo:
+
+* Utilizar el conjunto de entrenamiento para ajustar los parámetros del modelo.
+
+### 5.Evaluación del Modelo:
+
+* Utilizar el conjunto de prueba para evaluar el rendimiento del modelo. Métricas comunes incluyen precisión, recall, F1-score para clasificación, y error cuadrático medio para regresión.
+
+### 6.Ajuste de Hiperparámetros:
+
+* Optimizar los parámetros del modelo utilizando técnicas como la validación cruzada.
+
+### 7.Implementación:
+
+* Desplegar el modelo entrenado para hacer predicciones sobre nuevos datos.
